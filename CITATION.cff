@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use or reference this research repository, please cite it using the repository URL and version."
+title: "Kamen Rider Kabuto PS2 Decompilation Project"
+type: software
+version: 0.1.0
+date-released: 2026-10-28
+abstract: "An evidence-driven reverse-engineering and decompilation research workspace for the PlayStation 2 release of Kamen Rider Kabuto, with a long-term objective of evaluating a native PC implementation."
+keywords:
+  - Kamen Rider
+  - Kabuto
+  - PlayStation 2
+  - reverse engineering
+  - decompilation
+  - game preservation
